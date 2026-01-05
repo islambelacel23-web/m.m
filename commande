@@ -1,0 +1,1 @@
+git add . git commit -m "Add initial KiCad project skeleton, footprints, reports, BOM and automation scripts" git push origin kicad-initial
