@@ -1,0 +1,3 @@
+(kicad_mod SIM_Nano (layer F.Cu) (tedit 00000000)
+  (descr "Placeholder for nano-SIM holder (push-push). Use SIM Slot PDF for mechanical pad and cutout.")
+)

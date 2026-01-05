@@ -1,0 +1,10 @@
+DFM / Manufacturing notes (initial)
+
+- Stackup: RO4350B 8 layers (see stackup.md) — confirm with manufacturer.
+- Copper: 1 oz outer / 1 oz inner.
+- Microvias: laser via 0.20 mm capability required for BGA fanout.
+- Through vias: typical drill 0.35 - 0.45 mm.
+- Backdrill: required for DDR & PCIe; specify backdrill depths per layer stackup (example: backdrill to remove stub down to L3 for DDR).
+- Impedance: target ±5% (50 Ω se, 90 Ω diff); include impedance test coupons.
+- Surface finish: ENIG recommended for RF and fine-pitch BGA.
+- Provide manufacturer with test coupon XY for impedance verification.

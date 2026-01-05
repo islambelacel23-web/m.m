@@ -1,0 +1,9 @@
+# .kicad_dru template (DRC preferences)
+MinTrackWidth = 0.12 mm
+MinAnnularRing = 0.15 mm
+MinViaDrill = 0.25 mm
+MinBoardThickness = 1.6 mm
+
+# Notes:
+# - Import netclasses.csv contents into PCBNew net classes after opening the PCB.
+# - Backdrill: specify DDR & PCIe backdrill depths in fabrication notes.

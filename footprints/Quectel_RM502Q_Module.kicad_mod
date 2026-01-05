@@ -1,0 +1,5 @@
+(kicad_mod Quectel_RM502Q_Module (layer F.Cu) (tedit 00000000)
+  (descr "Placeholder for Quectel RM502Q M.2 module footprint (mechanical + antenna keepouts).
+  - Confirm exact mechanical drawing from Quectel datasheet; attach STEP if available.
+  - Keep antenna areas free (0.5 mm or as vendor recommends).")
+)

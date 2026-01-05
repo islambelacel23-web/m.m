@@ -1,0 +1,3 @@
+(kicad_mod RJ45_MagJack (layer F.Cu) (tedit 00000000)
+  (descr "Placeholder for RJ45 MagJack (2.5G) footprint. Use RJ45 PDF for pads, shield and retention pins.")
+)

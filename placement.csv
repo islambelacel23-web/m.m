@@ -1,0 +1,8 @@
+ref,footprint,x_mm,y_mm,rotation_deg,side
+U1,MT7988A_BGA,74.00,50.00,0,Top
+U2,Quectel_RM502Q_Module,130.00,20.00,0,Top
+J1,M2_2280_KeyM,100.00,70.00,0,Top
+J2,SFPplus_Cage,10.00,50.00,0,Top
+J3,RJ45_MagJack,45.00,50.00,0,Top
+SIM1,SIM_Nano,20.00,12.00,0,Top
+CN1,USB_C_16PF,120.00,95.00,0,Top

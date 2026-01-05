@@ -1,0 +1,9 @@
+ERC/DRC initial report (placeholder)
+- No PCB loaded yet: generate footprints and place modules, then run ERC/DRC in KiCad.
+- Expected checks to run:
+  * Floating power nets
+  * Unconnected pins
+  * Annular ring violations (min 0.15 mm)
+  * Clearance violations (min per netclass)
+  * DQ/DQS diffpair tuning rules
+- After first placement and routing an actual DRC log will be generated and stored here.

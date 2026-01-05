@@ -1,0 +1,8 @@
+name,width_mm,clearance_mm,via_drill_mm,via_dia_mm,annular_mm,diff_pair_gap_mm,target_impedance_ohm,notes
+DDR,0.12,0.10,0.30,0.60,0.25,0.12,100,"LPDDR4X DQ/DQS diff pairs; length matching per byte lane"
+PCIe,0.20,0.12,0.35,0.70,0.25,0.18,90,"PCIe Gen4 lanes target 90Ω diff"
+USB3,0.20,0.12,0.35,0.70,0.25,0.18,90,"USB3 SuperSpeed"
+ETH_1G,0.25,0.12,0.35,0.70,0.25,0.25,100,"1G/2.5G Ethernet"
+RF_ANT,1.35,0.50,0.40,0.80,0.30,.,50,"RF feed to SMA/U.FL microstrip top layer"
+POWER,1.00,0.25,0.50,1.00,0.30,.,., "Power rails - width by current"
+GENERAL,0.25,0.20,0.35,0.70,0.25,.,., "General signals"

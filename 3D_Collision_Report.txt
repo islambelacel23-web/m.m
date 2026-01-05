@@ -1,0 +1,8 @@
+3D collision initial report (placeholder)
+- Using generic STEP placeholders for connectors.
+- Missing STEP files that would improve collision checking:
+  * Quectel_RM502Q STEP
+  * NVMe socket STEP
+  * SFP+ cage STEP (if not provided in repo)
+  * RJ45 MagJack STEP
+- Once STEP files are available, import them in KiCad 3D viewer and rerun collision checks; record collisions here.

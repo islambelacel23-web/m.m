@@ -1,0 +1,3 @@
+# Placeholder Compute schematic
+# Items to add: U_CPU (MT7988A), DDR chips, NVMe connector (M.2 2280 Key M), clocks, JTAG connector, power nets.
+# Use MT7988A datasheet (MT7988A_Wi-Fi7_Platform_Datasheet_Open_V0.1.pdf) to map pins and power domains.

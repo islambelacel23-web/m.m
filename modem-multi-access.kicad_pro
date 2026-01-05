@@ -1,0 +1,16 @@
+[general]
+version=1
+title=modem multi-access
+date=2026-01-05T00:00:00
+
+[pcb]
+file=modem_multi_access.kicad_pcb
+
+[schematics]
+main=main.kicad_sch
+compute=Compute.kicad_sch
+rf=RF.kicad_sch
+power=Power.kicad_sch
+lan=LAN.kicad_sch
+ihm=IHM.kicad_sch
+test=Test.kicad_sch

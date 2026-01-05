@@ -1,0 +1,25 @@
+(kicad_pcb (version 20211014) (host pcbnew 7.99.0)
+  (general
+    (thickness 1.6)
+    (drawings 4)
+    (tracks 0)
+    (zones 0)
+    (modules 0)
+    (nets 0)
+  )
+
+  # BOARD OUTLINE (placeholders)
+  # Board size: 148 mm x 100 mm (origin bottom-left)
+  # Import mechanical DXF files into KiCad:
+  #   -> BPI-R4Pro-V10_DXF_TOP.dxf  (Edge.Cuts + mechanical)
+  #   -> BPI-R4Pro-V10_DXF_BOT.dxf
+
+  # Placement plan (to be adjusted precisely after DXF import):
+  # - SFP+ cage → X=10 mm (overhang 2 mm)
+  # - RJ45 MagJack → X=45 mm
+  # - USB-C → X=120 mm (opposite edge)
+  # - Mounting holes: 4 × Ø3.2 mm at 5 mm from corners
+  # - U_CPU (MT7988A) center ~ (74 mm, 50 mm) - adjust per assembly PDF
+  # - DDR chips: within 15–20 mm of CPU
+  # - M.2 Key M (NVMe 2280) adjacent to CPU (align PCIe lanes)
+)

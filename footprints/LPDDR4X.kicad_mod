@@ -1,0 +1,6 @@
+(kicad_mod LPDDR4X_pkg (layer F.Cu) (tedit 00000000)
+  (descr "Placeholder for LPDDR4X package footprint.
+  - Use vendor recommended land pattern.
+  - Place decoupling caps close to power pins.
+  - Routing: keep DQ/DQS differential pairs short and matched per byte-lane.")
+)

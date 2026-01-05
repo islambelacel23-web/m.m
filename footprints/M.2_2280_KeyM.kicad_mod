@@ -1,0 +1,6 @@
+(kicad_mod M2_2280_KeyM (layer F.Cu) (tedit 00000000)
+  (descr "Placeholder for M.2 Key M (2280) socket (NVMe).
+  - Mechanical length 22x80 mm.
+  - Mounting screw location and standoff to be added.
+  - Use M.2 spec for pin mapping; ensure mechanical keepout for module thickness.")
+)

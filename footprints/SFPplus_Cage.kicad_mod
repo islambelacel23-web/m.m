@@ -1,0 +1,4 @@
+(kicad_mod SFPplus_Cage (layer F.Cu) (tedit 00000000)
+  (descr "Placeholder for SFP+ cage footprint. Use SFP+Cage_1X1-RTS29-... PDF for exact pads and anchor pins.
+  - Place cage at X=10 mm per assembly instructions (verify after DXF import).")
+)

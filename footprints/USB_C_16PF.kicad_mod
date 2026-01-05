@@ -1,0 +1,5 @@
+(kicad_mod USB_C_16PF (layer F.Cu) (tedit 00000000)
+  (descr "Placeholder for USB-C 16-pin receptacle.
+  - Ensure wide VBUS pads and thermal relief for high-current.
+  - Add differential pair rules for SuperSpeed signals.")
+)
