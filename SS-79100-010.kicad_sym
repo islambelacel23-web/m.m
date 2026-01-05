@@ -1,0 +1,479 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "SS-79100-010" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -7.62 28.702 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "SS-79100-010" (id 1) (at -7.62 -33.02 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "SS-79100-010:BEL_SS-79100-010" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Stewart Connector" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "26.11mm" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "None" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/SS-79100-010/Stewart+Connector/view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendations" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "A3" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/SS-79100-010/Stewart+Connector/view-part/?ref=snap" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "SS-79100-010" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            SFP+ Cage | 2x1 | Light Pipes | Press-Fit\n                        \n" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 14) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Bel Fuse" (id 15) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "SS-79100-010_0_0"
+      (rectangle (start -7.62 -30.48) (end 7.62 27.94)
+        (stroke (width 0.1524)) (fill (type background))
+      )
+      (pin passive line (at -12.7 25.4 0) (length 5.08)
+        (name "L1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 25.4 180.0) (length 5.08)
+        (name "T1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 22.86 0) (length 5.08)
+        (name "L2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 22.86 180.0) (length 5.08)
+        (name "T2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 20.32 0) (length 5.08)
+        (name "L3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 20.32 180.0) (length 5.08)
+        (name "T3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 17.78 0) (length 5.08)
+        (name "L4"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 17.78 180.0) (length 5.08)
+        (name "T4"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 15.24 0) (length 5.08)
+        (name "L5"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 15.24 180.0) (length 5.08)
+        (name "T5"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 12.7 0) (length 5.08)
+        (name "L6"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 12.7 180.0) (length 5.08)
+        (name "T6"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 10.16 0) (length 5.08)
+        (name "L7"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 10.16 180.0) (length 5.08)
+        (name "T7"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 7.62 0) (length 5.08)
+        (name "L8"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 7.62 180.0) (length 5.08)
+        (name "T8"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 5.08 0) (length 5.08)
+        (name "L9"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 5.08 180.0) (length 5.08)
+        (name "T9"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 2.54 0) (length 5.08)
+        (name "L10"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 2.54 180.0) (length 5.08)
+        (name "T10"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 0.0 0) (length 5.08)
+        (name "L11"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 0.0 180.0) (length 5.08)
+        (name "T11"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -2.54 0) (length 5.08)
+        (name "L12"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -2.54 180.0) (length 5.08)
+        (name "T12"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -5.08 0) (length 5.08)
+        (name "L13"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -5.08 180.0) (length 5.08)
+        (name "T13"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -7.62 0) (length 5.08)
+        (name "L14"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -7.62 180.0) (length 5.08)
+        (name "T14"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -10.16 0) (length 5.08)
+        (name "L15"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L15"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -10.16 180.0) (length 5.08)
+        (name "T15"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T15"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -12.7 0) (length 5.08)
+        (name "L16"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L16"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -12.7 180.0) (length 5.08)
+        (name "T16"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T16"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -15.24 0) (length 5.08)
+        (name "L17"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L17"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -15.24 180.0) (length 5.08)
+        (name "T17"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T17"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -17.78 0) (length 5.08)
+        (name "L18"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L18"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -17.78 180.0) (length 5.08)
+        (name "T18"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T18"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -20.32 0) (length 5.08)
+        (name "L19"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L19"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -22.86 0) (length 5.08)
+        (name "L20"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L20"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -20.32 180.0) (length 5.08)
+        (name "T19"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T19"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -22.86 180.0) (length 5.08)
+        (name "T20"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T20"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08)
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -27.94 180.0) (length 5.08) hide
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
